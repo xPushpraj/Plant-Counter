@@ -261,9 +261,9 @@ Download the official companion app for Android to access plant counting feeds o
 ### Live System in Action
 > Add your demonstration video here showing the real-time detection working
 
-```markdown
-![Live Demo Video](assets/videos/live-demo.mp4)
-```
+
+![Live Demo Video](https://github.com/xPushpraj/Plant-Counter/blob/main/g_hub.mp4)
+
 
 **Video Contents Should Include:**
 - 📷 Camera positioning and field of view
@@ -282,22 +282,6 @@ Download the official companion app for Android to access plant counting feeds o
 
 ![Mounted on AMVT Machine ](https://github.com/xPushpraj/Plant-Counter/blob/main/images/g_hub.jpeg)
 
-
-<!-- IMAGE PLACEHOLDER: Close-up Hardware -->
-### Hardware Close-up
-> Add close-up images of the assembled Raspberry Pi, Camera Module 3, and power connections
-
-
-![Hardware Close-up](https://github.com/xPushpraj/Plant-Counter/blob/main/g_hub.mp4)
-
-
-<!-- IMAGE PLACEHOLDER: Detection Output -->
-### Detection Visualization
-> Add screenshots of the YOLOv8 bounding boxes on standing vs fallen plants
-
-```markdown
-![Detection Output](assets/images/detection-output.jpg)
-```
 
 ---
 
