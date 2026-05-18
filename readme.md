@@ -280,17 +280,16 @@ Download the official companion app for Android to access plant counting feeds o
 ### System Mounted on Equipment
 > Add images showing the Pi + Camera mounted on your agricultural machine/vehicle
 
-```markdown
-![Mounted System](images/https://github.com/xPushpraj/Plant-Counter/blob/main/images/g_hub.jpeg)
-```
+![Mounted on AMVT Machine ](https://github.com/xPushpraj/Plant-Counter/blob/main/images/g_hub.jpeg)
+
 
 <!-- IMAGE PLACEHOLDER: Close-up Hardware -->
 ### Hardware Close-up
 > Add close-up images of the assembled Raspberry Pi, Camera Module 3, and power connections
 
-```markdown
-![Hardware Close-up](assets/images/hardware-closeup.jpg)
-```
+
+![Hardware Close-up](https://github.com/xPushpraj/Plant-Counter/blob/main/g_hub.mp4)
+
 
 <!-- IMAGE PLACEHOLDER: Detection Output -->
 ### Detection Visualization
