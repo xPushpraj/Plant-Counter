@@ -225,9 +225,8 @@ Download the official companion app for Android to access plant counting feeds o
 
 <!-- IMAGE PLACEHOLDER: Circuit Diagram -->
 <!-- Add your circuit wiring image here -->
-![Circuit Diagram](assets/images/circuit-diagram.png)
+![Circuit Diagram](https://github.com/xPushpraj/Plant-Counter/blob/main/images/g_hub.png)
 
-> **Note:** Place your circuit wiring image in `assets/images/circuit-diagram.png`
 
 ### Wiring Overview
 
@@ -282,7 +281,7 @@ Download the official companion app for Android to access plant counting feeds o
 > Add images showing the Pi + Camera mounted on your agricultural machine/vehicle
 
 ```markdown
-![Mounted System](assets/images/mounted-system.jpg)
+![Mounted System](images/https://github.com/xPushpraj/Plant-Counter/blob/main/images/g_hub.jpeg)
 ```
 
 <!-- IMAGE PLACEHOLDER: Close-up Hardware -->
